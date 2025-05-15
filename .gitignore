@@ -1,0 +1,21 @@
+# Ignore virtual environments
+env/
+crypto_rl_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/secret files
+.env
+.env.*
